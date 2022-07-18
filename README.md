@@ -11,7 +11,7 @@ Para que funcione el sistema, se debe realizar los siguientes pasos:
 3. Para ejecutar los test
    npm run test
 
-La estructura del sistema es la siguiente:
+La estructura del sistema es la siguiente dentro de la carpeta src:
 
 1. Assets
    Se almacena las imagenes e iconos
@@ -25,6 +25,8 @@ La estructura del sistema es la siguiente:
    Se almacenan los test unitarios
 6. Types
    Se almacenan los catalogos que requiere el sistema
+
+La carpeta docs tiene el programa para produccion, se subio al repositorio para utilizar GitHub Pages
 
 El sistema funciona de la siguiente manera para realizar las búsquedas de las recetas:
 
