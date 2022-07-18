@@ -1,5 +1,5 @@
 describe('Prueba de busqueda', () => {
-    test('Por inactivo', () => { 
+    test('Listar todas las recetas', () => { 
         
      })
 })
