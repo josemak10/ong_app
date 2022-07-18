@@ -25,3 +25,9 @@ La estructura del sistema es la siguiente:
    Se almacenan los test unitarios
 6. Types
    Se almacenan los catalogos que requiere el sistema
+
+El sistema funciona de la siguiente manera para realizar las búsquedas de las recetas:
+
+1. En el casillero de busqueda, se puede tipear 'all', 'active', 'inactive' y el sistema filtrará.
+2. Pulsando el botón el sistema realizará el filtro.
+3. Al momento de indicar el filtro, el sistema realiza un dispatch() y ejecuta un proceso de filtrado de acuerdo a la selección.
