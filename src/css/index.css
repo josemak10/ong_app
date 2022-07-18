@@ -1,0 +1,99 @@
+@import 'antd/dist/antd.css';
+
+.img-logo {
+  width: 93.76px;
+  height: 48px;
+}
+
+.text-title {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 48px;
+  color: #19191A;
+  padding-bottom: 32px;
+}
+
+.text-selection-search {
+  font-weight: 600;
+  color: #1E3646;
+}
+
+.button-add-recipe{
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  right: 24px;
+  bottom: 24px;
+  color: #FFFFFF;
+  background-color: #0C969D;
+  font-size: 40px;
+  font-weight: 100;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-img-logo {
+  margin-left: 10px;
+  padding: 15px;
+  height: 60px;
+}
+
+.container-form {
+  padding-left: 48px;
+  padding-right: 48px;
+  padding-top: 32px;
+}
+
+.container-img-form {
+  display: flex;
+  flex-direction: row;
+}
+
+.input-icon-search {
+  color: #1E3646;
+}
+
+.container-input-search {
+  background-color: #F9F9F9;
+  border-radius: 10px;
+}
+
+.container-search-button-selector {
+  margin-left: 16px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #1E3646;
+  background: #EBF0F3;
+  border-radius: 10px;
+}
+
+.container-list-recipe-header {
+  padding-top: 32px;
+  padding-bottom: 15px;
+  border-bottom-style: solid;
+  border-bottom-color: #B1C4D1;
+  border-width: 1px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 16px;
+  color: #79797A;
+}
+
+.container-list-recipe-body {
+  border-bottom-style: solid;
+  border-bottom-color: #EBF0F3;;
+  border-width: 1px;
+  height: 48px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #19191A;
+  align-items: center;
+}
