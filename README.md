@@ -26,8 +26,6 @@ La estructura del sistema es la siguiente dentro de la carpeta src:
 6. Types
    Se almacenan los catalogos que requiere el sistema
 
-La carpeta docs tiene el programa para produccion, se subio al repositorio para utilizar GitHub Pages
-
 El sistema funciona de la siguiente manera para realizar las búsquedas de las recetas:
 
 1. En el casillero de busqueda, se puede tipear 'all', 'active', 'inactive' y el sistema filtrará.
